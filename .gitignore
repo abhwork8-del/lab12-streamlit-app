@@ -1,0 +1,8 @@
+mkdir project_3_app
+cd project_3_app
+touch app.py requirements.txt .env .gitignore
+.env
+chroma_db/
+__pycache__/
+vnv/
+.venv/
